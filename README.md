@@ -1,1 +1,1 @@
-# Stone-Paper-Sci-Game
+# Stone-Paper-Scissor-Game
